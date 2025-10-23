@@ -1,3 +1,7 @@
+Below is the original default template - please see the branches for actual model configs
+
+---
+
 # TEMPLATE for Model Configuration Repositories
 
 A template repository for model configurations utilizing the `ACCESS-NRI/model-config-tests` CI infrastructure
